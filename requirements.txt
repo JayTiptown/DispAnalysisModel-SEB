@@ -4,3 +4,4 @@ geopy
 matplotlib
 pandas
 seaborn
+pysal
