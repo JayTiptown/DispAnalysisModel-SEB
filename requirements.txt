@@ -4,4 +4,7 @@ geopy
 matplotlib
 pandas
 seaborn
-pysal
+geopandas
+esda
+libpysal
+scipy
