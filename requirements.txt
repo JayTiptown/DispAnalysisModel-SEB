@@ -8,3 +8,4 @@ geopandas
 esda
 libpysal
 scipy
+shapely
